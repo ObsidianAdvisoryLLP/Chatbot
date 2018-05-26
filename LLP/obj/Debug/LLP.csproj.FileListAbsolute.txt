@@ -1,0 +1,41 @@
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Bot Application.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Bot Application.pdb
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Autofac.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Chronic.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Microsoft.Bot.Builder.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Microsoft.Bot.Connector.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Newtonsoft.Json.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\System.Net.Http.Formatting.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\System.Web.Http.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\System.Web.Http.WebHost.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Autofac.xml
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Microsoft.Bot.Builder.xml
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Microsoft.Bot.Connector.xml
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\Newtonsoft.Json.xml
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\System.Net.Http.Formatting.xml
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\System.Web.Http.xml
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\System.Web.Http.WebHost.xml
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\obj\Debug\LLP.csprojResolveAssemblyReference.cache
+C:\Users\Samson\Desktop\LLP\LLP\LLP\obj\Debug\LLP.csproj.CoreCompileInputs.cache
+C:\Users\Samson\Desktop\LLP\LLP\LLP\obj\Debug\Bot Application.dll
+C:\Users\Samson\Desktop\LLP\LLP\LLP\obj\Debug\Bot Application.pdb
+C:\Users\Samson\Desktop\LLP\LLP\LLP\bin\AdaptiveCards.dll
